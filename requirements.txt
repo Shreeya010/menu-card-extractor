@@ -1,7 +1,8 @@
 fastapi
 uvicorn
 jinja2
-pillow
-requests
 python-multipart
+requests
+pillow
+openpyxl
 itsdangerous
