@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 jinja2
 pillow
 requests
 python-multipart
+=======
+fastapi
+uvicorn
+jinja2
+python-multipart
+requests
+pillow
+openpyxl
+itsdangerous
+google-generativeai
+>>>>>>> 3d3bd3af7d3790b142a9808653b0d4f954214ef3
